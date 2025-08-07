@@ -1,0 +1,8 @@
+/home/dingo/Programming/ChargeMyTesla/build/CMakeFiles/solar_monitor.dir
+/home/dingo/Programming/ChargeMyTesla/build/CMakeFiles/register_scanner.dir
+/home/dingo/Programming/ChargeMyTesla/build/CMakeFiles/quick_test.dir
+/home/dingo/Programming/ChargeMyTesla/build/CMakeFiles/simple_register_test.dir
+/home/dingo/Programming/ChargeMyTesla/build/CMakeFiles/energy_data_reader.dir
+/home/dingo/Programming/ChargeMyTesla/build/CMakeFiles/exact_scanner_test.dir
+/home/dingo/Programming/ChargeMyTesla/build/CMakeFiles/edit_cache.dir
+/home/dingo/Programming/ChargeMyTesla/build/CMakeFiles/rebuild_cache.dir
